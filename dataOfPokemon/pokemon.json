@@ -1,0 +1,12 @@
+[
+    {
+        "name": "pikachu",
+        "habilidades": {
+            "hab1": "choquedo trovao",
+            "hab2": "calda aaaa"
+        },
+        "poder": "1200",
+        "defesa": "2000"
+    }
+
+]
